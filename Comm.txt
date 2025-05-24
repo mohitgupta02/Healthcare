@@ -26,3 +26,6 @@ http://192.168.49.2:30061/
 http://localhost:15672/#/queues
 http://localhost:3000
 
+
+ab -n 100 -c 5 http://healthcare.local/doctor/api/doctors
+// to hit api requests for load
