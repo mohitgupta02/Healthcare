@@ -4,7 +4,7 @@
   remote_user: mohitgupta0205
   become: false
   vars:
-    kubeconfig_path: /home/administrator/.kube/config
+    kubeconfig_path: /home/mohitgupta0205/.kube/config
 
   roles:
     - role: envSetup_role

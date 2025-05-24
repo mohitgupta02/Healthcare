@@ -1,9 +1,9 @@
 - name: Apply rabbitmq
   environment:
-    KUBECONFIG: /home/administrator/.kube/config
+    KUBECONFIG: /home/mohitgupta0205/.kube/config
   command: kubectl apply -f {{ playbook_dir }}/Kubernetes/rabbitmq.yml
 
 - name: Apply notification service
   environment:
-    KUBECONFIG: /home/administrator/.kube/config
+    KUBECONFIG: /home/mohitgupta0205/.kube/config
   command: kubectl apply -f {{ playbook_dir }}/Kubernetes/notification.yml
