@@ -70,7 +70,7 @@ pipeline {
                     withEnv(["ANSIBLE_HOST_KEY_CHECKING=False"]) {
                         ansiblePlaybook(
                             playbook: 'ansible-playbook.yaml',
-                            inventory: 'inventory'
+                            inventory: 'inventory',
                             vaultCredentialsId: 'ansible_vault_pass'
                         )
                     }
