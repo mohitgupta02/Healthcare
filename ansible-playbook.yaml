@@ -1,6 +1,7 @@
 ---
 - name: Apply Kubernetes manifests using Ansible roles
   hosts: localhost
+  remote_user: mohitgupta0205
   become: false
   vars:
     kubeconfig_path: /home/administrator/.kube/config
