@@ -80,9 +80,6 @@ This system covers everything from patient and doctor registration to appointmen
 ## External Links
 
 - **DockerHub (All Services)**  
-  👉 [https://hub.docker.com/u/nakulsiwach](https://hub.docker.com/u/nakulsiwach)
-
-- **Postman API Collection**  
-  👉 [https://red-capsule-927028.postman.co/workspace/My-Workspace~f5afb104-dcbd-4e38-8e63-ec68638b54c8/folder/17588066-0b526aef-602b-4c7c-827e-706959fe68da?action=share&creator=17588066&ctx=documentation](https://red-capsule-927028.postman.co/workspace/My-Workspace~f5afb104-dcbd-4e38-8e63-ec68638b54c8/folder/17588066-0b526aef-602b-4c7c-827e-706959fe68da?action=share&creator=17588066&ctx=documentation)
+  👉 [https://hub.docker.com/u/mohitgupta02](https://hub.docker.com/u/mohitgupta02)
 
 
